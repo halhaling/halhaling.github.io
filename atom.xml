@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-12T14:35:26.663Z</updated>
+  <updated>2021-03-17T13:28:27.820Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>为什么要系统学习营养学</title>
-    <link href="http://example.com/2021/03/12/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E8%90%A5%E5%85%BB%E5%AD%A6/"/>
-    <id>http://example.com/2021/03/12/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E8%90%A5%E5%85%BB%E5%AD%A6/</id>
+    <link href="http://example.com/whyIstudynutriology"/>
+    <id>http://example.com/whyIstudynutriology</id>
     <published>2021-03-12T07:00:00.000Z</published>
-    <updated>2021-03-12T14:35:26.663Z</updated>
+    <updated>2021-03-17T13:28:27.820Z</updated>
     
     <content type="html"><![CDATA[<ol><li>营销驱动</li><li>学术驱动</li><li>价值驱动</li></ol>]]></content>
     
@@ -40,6 +40,8 @@
     
     <category term="营养学" scheme="http://example.com/categories/nutriology/"/>
     
+    
+    <category term="营养学" scheme="http://example.com/tags/%E8%90%A5%E5%85%BB%E5%AD%A6/"/>
     
   </entry>
   
