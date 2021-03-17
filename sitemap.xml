@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/03/10/helloworld/</loc>
+    <loc>http://example.com/2021/03/17/firstchapter/</loc>
     
     <lastmod>2021-03-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/03/12/whyistudynutriology/</loc>
+    <loc>http://example.com/2021/03/10/helloworld/</loc>
     
     <lastmod>2021-03-17</lastmod>
     
@@ -31,20 +31,6 @@
   </url>
 
   
-  <url>
-    <loc>http://example.com/tags/%E8%90%A5%E5%85%BB%E5%AD%A6/</loc>
-    <lastmod>2021-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>http://example.com/categories/nutriology/</loc>
-    <lastmod>2021-03-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
 </urlset>
