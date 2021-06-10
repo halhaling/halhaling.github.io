@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Know thyself</title>
+  <title>美中营养观察</title>
   
-  
+  <subtitle>分享美国和中国营养保健产业的资讯和思考</subtitle>
   <link href="https://zhaohao.de/atom.xml" rel="self"/>
   
   <link href="https://zhaohao.de/"/>
@@ -10,7 +10,7 @@
   <id>https://zhaohao.de/</id>
   
   <author>
-    <name>Zhao Hao</name>
+    <name>二氢凝胶</name>
     
   </author>
   
